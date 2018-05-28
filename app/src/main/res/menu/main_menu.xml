@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_list_1"
+        android:title="Lista 1" />
+    <item
+        android:id="@+id/menu_list_2"
+        android:title="Lista 2" />
+    <item
+        android:id="@+id/menu_list_3"
+        android:title="Lista 3" />
+    <item
+        android:id="@+id/menu_list_4"
+        android:title="Lista 4" />
+    <item
+        android:id="@+id/menu_list_5"
+        android:title="Lista 5" />
+    <item
+        android:id="@+id/menu_login"
+        android:title="Login" />
+</menu>
